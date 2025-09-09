@@ -1,6 +1,7 @@
 👨🏻‍💻 Júlio César Guimarães
 Desenvolvimento com Python, Automação e Inteligência Artificial
-Olá! Me chamo Júlio César Guimarães e sou de Teresina, Piauí. Sou apaixonado por tecnologia e tenho experiência em desenvolvimento Python, automação, análise de dados, e estou aprofundando meus estudos em inteligência artificial. Já trabalhei com bibliotecas como pandas e Matplotlib. Compartilho meu conhecimento e projetos no meu GitHub e no meu Instagram: @juliocfg_.
+Olá! Me chamo Júlio César Guimarães e sou de Teresina, Piauí. Tenho experiência em desenvolvimento Python, automação, análise de dados, e estou aprofundando meus estudos em inteligência artificial. Já trabalhei com bibliotecas como pandas e Matplotlib.
+Compartilho minha jornada no meu Instagram: @juliocfg_.
 <p align="left">
 <a href="https://github.com/Juwl41?tab=repositories">
 <img
