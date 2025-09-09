@@ -37,11 +37,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 <h4>📊 Estatísticas</h4>
 
 ![Juwl41's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juwl41&show_icons=true&theme=transparent)
+
 <img
 align="left"
 alt="GitHub Stats"
 height="200"
 style="padding-right: 10px;"
-src="https://github.com/Juwl41/github-readme-stats"
+src="https://github-readme-stats.vercel.app/api?username=Juwl41&show icons=true&theme tokyonight&include all commits=true&locale=pt-br"
 />
 
