@@ -64,3 +64,4 @@ height="200"
 src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJuwl41%26theme%3Dtokyonight%26layout%3Dcompact%26custom_title%3DTecnologias%26langs_count%3D9"
 />
 </p>
+
