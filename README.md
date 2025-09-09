@@ -43,6 +43,6 @@ align="left"
 alt="GitHub Stats"
 height="200"
 style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/? username=Juwl41"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juwl41"
 />
 
