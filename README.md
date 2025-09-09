@@ -11,7 +11,7 @@
 
 <p>
 I’m a Python developer with experience in automation and data analysis, and I’m currently deepening my knowledge in artificial intelligence.<br>
-I’ve worked with libraries such as <code>pandas</code> and <code>matplotlib</code>, and I'm passionate about solving problems with code and exploring AI solutions.
+I’ve worked with libraries such as <code>pandas</code> and <code>SQLite</code>, and I'm passionate about solving problems with code and exploring AI solutions.
 </p>
 
 <img
