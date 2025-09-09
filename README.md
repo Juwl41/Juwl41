@@ -19,6 +19,7 @@ src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/gith
 </p>
 🤖 Linguagens e Tecnologias
 <img
+/>
 <img
 align="left"
 alt="Python"
