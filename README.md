@@ -5,7 +5,7 @@
 Olá! Me chamo Júlio César Guimarães e sou de Teresina, Piauí. Tenho experiência em desenvolvimento Python, automação, análise de dados, e estou aprofundando meus estudos em inteligência artificial. Já trabalhei com bibliotecas como pandas e Matplotlib.
 Compartilho minha jornada no meu Instagram: @juliocfg_.
 
-🤖 Linguagens e Tecnologias
+<h4>🤖 Linguagens e Tecnologias</h4>
 
 <img
 align="left"
@@ -34,4 +34,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 <br/>
 <br/>
 
+<h4>📊 Estatísticas</h4>
 
