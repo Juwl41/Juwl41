@@ -20,14 +20,6 @@ src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/gith
 🤖 Linguagens e Tecnologias
 <img
 align="left"
-alt="Git"
-title="Git"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-align="left"
 alt="Python"
 title="Python"
 width="30px"
@@ -40,15 +32,15 @@ alt="Pandas"
 title="Pandas"
 width="30px"
 style="padding-right: 10px;"
-src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/pandas/pandas-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
 <img
 align="left"
-alt="Matplotlib"
-title="Matplotlib"
+alt="SQLite"
+title="SQLite"
 width="30px"
 style="padding-right: 10px;"
-src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/matplotlib/matplotlib-original.svg"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
 />
 <br/>
 <br/>
