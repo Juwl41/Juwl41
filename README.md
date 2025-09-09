@@ -37,4 +37,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 <h4>📊 Estatísticas</h4>
 
 ![Juwl41's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juwl41&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juwl41&layout=donut)](https://github.com/Juwl41/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juwl41&layout=compact)
